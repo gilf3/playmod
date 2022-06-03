@@ -1,3 +1,3 @@
-module github.com/gilf3/playmod
+module github.com/ynikl/playmod
 
 go 1.17
